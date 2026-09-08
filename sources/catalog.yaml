@@ -1,1 +1,26 @@
-sources: []
+sources:
+  - id: OFF-001
+    title: "Trabajo Integrador - Entrega 1: CertiFlow"
+    type: official
+    path: official/certiflow-entrega-1.pdf
+    extracted: extracted/OFF-001.md
+  - id: OFF-002
+    title: "Clase 1: El diseño"
+    type: official
+    path: official/clase-1-itba-2026.pdf
+    extracted: extracted/OFF-002.md
+  - id: OFF-003
+    title: "Clase 3: Arquitectura"
+    type: official
+    path: official/clase-3-itba-2026.pdf
+    extracted: extracted/OFF-003.md
+  - id: OFF-004
+    title: "Clase 4: SOLID"
+    type: official
+    path: official/clase-3-presentacion.pdf
+    extracted: extracted/OFF-004.md
+  - id: OFF-005
+    title: "Clase 2: Orientación a Objetos"
+    type: official
+    path: official/semana-2-presentacion.pdf
+    extracted: extracted/OFF-005.md

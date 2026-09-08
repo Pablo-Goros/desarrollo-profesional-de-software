@@ -1,9 +1,9 @@
 schema_version: 1
 
 course:
-  name: ""
-  institution: ""
-  period: ""
+  name: "Desarrollo Profesional de Software"
+  institution: "ITBA"
+  period: "2026-1c"
   language: es
 
 sources:
